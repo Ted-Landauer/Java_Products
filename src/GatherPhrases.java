@@ -2,6 +2,20 @@ import java.io.*;
 import java.util.*;
 
 public class GatherPhrases {
+	
+	/*Different possible lists
+	 * 
+	 * Dating game
+	 * pockets
+	 * genre switch
+	 * Worlds Worst
+	 * Scenes from a hat
+	 * party quirks
+	 * good, bad, ugly
+	 * 
+	 */
+	
+	
 	protected ArrayList<String> phrases = new ArrayList<>();
 	
 	
